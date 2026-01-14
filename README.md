@@ -1,0 +1,1 @@
+# NeoCore Plugins Registry
