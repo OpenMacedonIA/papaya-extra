@@ -1,4 +1,4 @@
-from modules.skills import BaseSkill
+from modules.BlueberrySkills import BaseSkill
 import requests
 import json
 from datetime import datetime

@@ -1,4 +1,4 @@
-from modules.skills import BaseSkill
+from modules.BlueberrySkills import BaseSkill
 from modules.utils import load_json_data
 import json
 import os

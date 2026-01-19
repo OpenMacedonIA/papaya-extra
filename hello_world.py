@@ -1,4 +1,4 @@
-from modules.skills import BaseSkill
+from modules.BlueberrySkills import BaseSkill
 
 class HelloWorldSkill(BaseSkill):
     def __init__(self, core):
